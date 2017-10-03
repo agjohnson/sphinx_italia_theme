@@ -6,6 +6,7 @@ recursive-include sphinx_italia_theme *.eot
 recursive-include sphinx_italia_theme *.html
 recursive-include sphinx_italia_theme *.js
 recursive-include sphinx_italia_theme *.svg
+recursive-include sphinx_italia_theme *.png
 recursive-include sphinx_italia_theme *.ttf
 recursive-include sphinx_italia_theme *.woff
 recursive-include sphinx_italia_theme *.woff2
